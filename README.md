@@ -12,7 +12,7 @@ To use this image, pull it from Docker Hub:
 docker pull tessa1372/todoproject:latest
 ```
 
-### ▶ **Run the Container**
+###  **Run the Container**
 Run the container with:
 ```bash
 docker run -d -p 8000:8000 --name todoproject tessa1372/todoproject:latest
